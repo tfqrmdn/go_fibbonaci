@@ -28,6 +28,6 @@ func main() {
 
 	f := fibonacci()
 	for i := 0; i < int; i++ {
-		fmt.Println(f())
+		fmt.Print(f(), ",")
 	}
 }
